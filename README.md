@@ -21,12 +21,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,docker,linux,aws,kubernetes,jenkins,kali,mysql,git,android,bootstrap,php" alt="tools" />
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,php,html,css,kotlin,c,cpp" alt="lang" />
+  <br>
+  <!-- DevOps, Cloud & Cybersecurity -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,kali,git,github,mysql,mongodb,sqlite,bootstrap,figma,photoshop,illustrator" alt="tools" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishka286&show_icons=true&locale=en&layout=compact&theme=radical" width="400px" alt="stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishka286&show_icons=true&locale=en&layout=compact&theme=radical" width="400px" alt="stats" />
+</p>
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align="center">
- <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  <img src="https://raw.githubusercontent.com/kavishka286/kavishka286/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
