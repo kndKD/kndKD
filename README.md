@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm J.L. Kavindu Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Kavindu Dilshan</h1>
 <h3 align="center">Full-Stack Developer | DevOps & Cloud Aspirant | Cybersecurity Enthusiast</h3>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px"></picture>
 
-Hi there! I am J.L. Kavindu Dilshan, an IT student at the Institute of Technology, University of Moratuwa (ITUM). I love exploring technology and building software. Here is what I am currently working on:
+Hi there! I am Kavindu Dilshan, an IT student at the Institute of Technology, University of Moratuwa (ITUM). I love exploring technology and building software. Here is what I am currently working on:
 
 - 🎓 **Learning Cloud & DevOps:** Studying how to deploy and manage apps using AWS, Azure, GCP, Docker, and Kubernetes.
 - 🛡️ **Exploring Cybersecurity:** Learning how to secure systems and networks using Kali Linux.
