@@ -6,11 +6,11 @@
 
 Hi there! I am J.L. Kavindu Dilshan, an IT student at the Institute of Technology, University of Moratuwa (ITUM). I love exploring technology and building software. Here is what I am currently working on:
 
-*   **Learning Cloud & DevOps:** Studying how to deploy and manage apps using AWS, Azure, GCP, Docker, and Kubernetes.
-*   **Exploring Cybersecurity:** Learning how to secure systems and networks using Kali Linux.
-*   **Software Development:** Coding primarily in Python and Java, and building web apps with React.
-*   **My Project:** I am currently developing a mobile application for vehicle diagnostics.
-*   **Future Goal:** I am working towards becoming a Full Stack AI Engineer by 2028.
+* 🎓 **Learning Cloud & DevOps:** Studying how to deploy and manage apps using AWS, Azure, GCP, Docker, and Kubernetes.
+* 🛡️ **Exploring Cybersecurity:** Learning how to secure systems and networks using Kali Linux.
+* 💻 **Software Development:** Coding primarily in Python and Java, and building web apps with React.
+* 📬 **Reach me:** knd.d98@gmail.com
+* ⚡ **Fun fact:** I love solving complex problems with code. 
 
 Feel free to reach out if you'd like to collaborate or just chat about tech!
 
