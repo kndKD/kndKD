@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm J.L. Kavindu Dilshan
+# 🚀 Hello, I'm Kavindu Dilshan
 
 **Architecting the future through Code, Cloud, and Intelligence.**
 
@@ -26,10 +26,13 @@ I am a dedicated **Information Technology student at the Institute of Technology
 ![Kavishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavishka286&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka286&layout=compact&theme=radical)
 
+### 🐍 Snake Game Animation
+![Snake animation](https://github.com/kavishka286/kavishka286/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📬 Connect With Me
-*   **Email:** [kavishkasenavirathna6@gmail.com](mailto:kavishkasenavirathna6@gmail.com)
+*   **Email:** [knd.d98@gmail.com](mailto:knd.d98@gmail.com)
 *   **Projects:** Check out my repositories to see my work on **Digital Creed** and custom software solutions.
 
 *Always learning, always building.* ⚡
