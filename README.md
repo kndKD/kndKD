@@ -19,9 +19,9 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
 <p align="center">
 <a href="www.linkedin.com/in/kavindu-dilshan-b7403438/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100079220147833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<!--<a href="https://www.facebook.com/profile.php?id=100079220147833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kavishka__senavirathna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+</p>-->
 
 ---
 
@@ -50,5 +50,5 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kavishka286/kavishka286/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
