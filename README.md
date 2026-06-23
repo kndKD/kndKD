@@ -44,9 +44,9 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 
 ---
 
-<p align="center">
+//<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishka286&show_icons=true&locale=en&layout=compact&theme=radical" width="400px" alt="stats" />
-</p>
+</p>//
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align="center">
