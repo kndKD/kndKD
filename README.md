@@ -5,7 +5,7 @@
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px"></picture>
 
 - 🎓 **Student:** Information Technology at ITUM (Batch 2024/2025).
-- 🚀 **Focus:** Mastering DevOps, Cloud Engineering (AWS), and Kubernetes.
+- 🚀 **Focus:** Mastering DevOps, Cloud Engineering (AWS, Azure, GCP), and Kubernetes.
 - 🛡️ **Cybersecurity:** Exploring Kali Linux and system hardening.
 - 💻 **Tech Stack:** Python, Java, JavaScript, React, Docker, Jenkins, and IoT.
 - 💡 **Vision 2028:** On a mission to become a Full Stack AI Engineer.
@@ -24,8 +24,8 @@
   <!-- Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,php,html,css,kotlin,c,cpp" alt="lang" />
   <br>
-  <!-- DevOps, Cloud & Cybersecurity -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,kali,git,github,mysql,mongodb,sqlite,bootstrap,figma,photoshop,illustrator" alt="tools" />
+  <!-- Cloud, DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux,kali,git,github,mysql,mongodb,sqlite,bootstrap,figma,photoshop,illustrator" alt="tools" />
 </p>
 
 <p align="center">
