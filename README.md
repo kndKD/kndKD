@@ -1,30 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kavindu Dilshan</h1>
+<h1 align="center">Hi 👋, I'm J.L. Kavindu Dilshan</h1>
 <h3 align="center">Full-Stack Developer | DevOps & Cloud Aspirant | Cybersecurity Enthusiast</h3>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
-
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px"></picture>
 
-Hi, I'm Kavindu Dilshan. I am a passionate Information Technology student currently studying at the Institute of Technology, University of Moratuwa (ITUM) - Batch 2024/2025.
+Hi there! I am J.L. Kavindu Dilshan, an IT student at the Institute of Technology, University of Moratuwa (ITUM). I love exploring technology and building software. Here is what I am currently working on:
 
-I enjoy building software solutions and exploring modern technologies. My focus is on expanding my knowledge in the following areas:
+*   **Learning Cloud & DevOps:** Studying how to deploy and manage apps using AWS, Azure, GCP, Docker, and Kubernetes.
+*   **Exploring Cybersecurity:** Learning how to secure systems and networks using Kali Linux.
+*   **Software Development:** Coding primarily in Python and Java, and building web apps with React.
+*   **My Project:** I am currently developing a mobile application for vehicle diagnostics.
+*   **Future Goal:** I am working towards becoming a Full Stack AI Engineer by 2028.
 
-*   **Cloud & DevOps:** Currently learning AWS, Azure, GCP, Docker, and Kubernetes.
-*   **Cybersecurity:** Interested in network security and using tools like Kali Linux.
-*   **Development:** Experienced in Full-Stack development using Python, Java, JavaScript, and React.
-*   **Current Project:** Building a vehicle diagnostics mobile application.
-*   **Goal:** My long-term goal is to become a Full Stack AI Engineer by 2028.
-
-Always happy to connect and collaborate on interesting projects!
+Feel free to reach out if you'd like to collaborate or just chat about tech!
 
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/kavishka-senavirathna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100079220147833"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/kavishka__senavirathna/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kavishka-senavirathna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100079220147833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kavishka__senavirathna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
