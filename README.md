@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm J.L. Kavindu Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Kavindu Dilshan</h1>
 <h3 align="center">Full-Stack Developer | DevOps & Cloud Aspirant | Cybersecurity Enthusiast</h3>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px"></picture>
 
 Hi, I'm Kavindu Dilshan. I am a passionate Information Technology student currently studying at the Institute of Technology, University of Moratuwa (ITUM) - Batch 2024/2025.
 
